@@ -1,0 +1,7 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xec507d5ECDb8Df76Ec08cB7ac45b0dC8cefE0a53'
+quorum: 1
+starknet
